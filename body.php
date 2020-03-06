@@ -11,9 +11,7 @@
       echo getLog::lg("logiOff");
       ?>
     </div>
-
     <div id="ctbody">
 
     </div>
-
-</div>
+</div> 

@@ -10,7 +10,7 @@ class func{
     xml.open("POST","files/in.php",true);
     xml.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xml.send("data="+x);
-  }
+  } 
 
   obj() {
     var x = {

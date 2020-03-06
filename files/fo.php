@@ -37,4 +37,4 @@ class getRe{
         return $txt;
       }
 }
-?>
+?> 

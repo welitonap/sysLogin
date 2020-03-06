@@ -1,5 +1,4 @@
 <?php
-
 if(!empty($_POST['data'])){
   if($_POST['data'] == "lg" OR $_POST['data'] == "cd"){
     require_once("fo.php");
@@ -13,4 +12,4 @@ class getLog{
     echo getRE::text($x);
   }
 }
-?>
+?> 

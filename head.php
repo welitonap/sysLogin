@@ -5,4 +5,4 @@
     <title>Page Responsiva</title>
     <link rel="stylesheet" href="css.css">
   </head>
-  <body>
+  <body> 
